@@ -1,4 +1,4 @@
-with open("/home/wolf/Desktop/adventofcode/day2.txt", "r") as f:
+with open("./day2/day2.txt", "r") as f:
     data = f.read().splitlines()
 # First column inputs
 ## Rock is A, Paper is B, Scissors is C

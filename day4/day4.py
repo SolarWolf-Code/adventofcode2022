@@ -1,4 +1,4 @@
-with open("/home/wolf/Desktop/adventofcode/day4.txt", "r") as f:
+with open("./day4/day4.txt", "r") as f:
     data = f.read().splitlines()
 
 

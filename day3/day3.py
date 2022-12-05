@@ -1,4 +1,4 @@
-with open("/home/wolf/Desktop/adventofcode/day3.txt", "r") as f:
+with open("./day3/day3.txt", "r") as f:
     data = f.read().splitlines()
 
 # each sack varies in size. We can use len(string)/2 then slice string
