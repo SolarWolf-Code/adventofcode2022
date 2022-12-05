@@ -1,10 +1,9 @@
-with open("/home/wolf/Desktop/adventofcode/day1.txt", "r") as f:
+with open("./day1/day1.txt", "r") as f:
     data = f.read().splitlines()
 
 # part 1
 elf_dict = {}
 # each new line means there is a new elf
-
 
 elf_count = 0
 tmp_total = 0
